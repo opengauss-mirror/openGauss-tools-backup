@@ -1,0 +1,10 @@
+project: opengauss/openGauss-tools-backup
+version: "1.0"
+
+directories:
+  - path: "./src/"
+    type: source
+
+files:
+  - path: "./MIT-License.txt"
+    type: license
